@@ -1,0 +1,61 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  videoDriver.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+  shaderManager.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+  matrix.cpp
+C:\FrameworkC++\source\matrix.cpp(139,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(140,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(141,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(142,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(146,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(147,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(148,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(149,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(153,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(154,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(155,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(156,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(234,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\FrameworkC++\source\matrix.cpp(234,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+C:\FrameworkC++\source\Main.cpp(52,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(53,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(55,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(55,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(62,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(62,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(69,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\FrameworkC++\source\Main.cpp(69,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SceneManager.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+C:\FrameworkC++\SceneManager.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\SceneManager.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\SceneManager.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\SceneManager.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\SceneManager.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+  Object.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+  Rect.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+C:\FrameworkC++\Rect.cpp(18,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\Rect.cpp(18,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Plane.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+  CollisionManager.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+C:\FrameworkC++\CollisionManager.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\CollisionManager.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\FrameworkC++\CollisionManager.cpp(89,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(90,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(91,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(92,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(93,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(94,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\CollisionManager.cpp(95,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Circle.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2496,40): error C2338: Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.
+C:\FrameworkC++\Circle.cpp(7,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\FrameworkC++\Circle.cpp(8,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
